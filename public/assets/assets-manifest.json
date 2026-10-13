@@ -1,0 +1,389 @@
+[
+  {
+    "id": "rainforest",
+    "path": "assets/photos/rainforest.jpg",
+    "caption": "열대 우림 풍경",
+    "sourceLesson": 9,
+    "sourceSlide": 6,
+    "sourceImage": "9-6-5.jpg"
+  },
+  {
+    "id": "savanna",
+    "path": "assets/photos/savanna.jpg",
+    "caption": "사바나 초원 풍경",
+    "sourceLesson": 9,
+    "sourceSlide": 7,
+    "sourceImage": "9-7-5.jpg"
+  },
+  {
+    "id": "cassava-thailand",
+    "path": "assets/photos/cassava-thailand.jpg",
+    "caption": "타이의 카사바 재배",
+    "sourceLesson": 9,
+    "sourceSlide": 11,
+    "sourceImage": "9-11-4.jpg"
+  },
+  {
+    "id": "oil-palm",
+    "path": "assets/photos/oil-palm.jpg",
+    "caption": "기름야자 재배 (PPT에 구체적 지역 미표기)",
+    "sourceLesson": 9,
+    "sourceSlide": 11,
+    "sourceImage": "9-11-5.jpg"
+  },
+  {
+    "id": "stilt-house-papua",
+    "path": "assets/photos/stilt-house-papua.jpg",
+    "caption": "파푸아뉴기니의 고상 가옥",
+    "sourceLesson": 9,
+    "sourceSlide": 11,
+    "sourceImage": "9-11-6.jpg"
+  },
+  {
+    "id": "coffee-ethiopia",
+    "path": "assets/photos/coffee-ethiopia.jpg",
+    "caption": "에티오피아의 커피",
+    "sourceLesson": 9,
+    "sourceSlide": 12,
+    "sourceImage": "9-12-4.jpg"
+  },
+  {
+    "id": "safari-serengeti",
+    "path": "assets/photos/safari-serengeti.jpg",
+    "caption": "탄자니아 세렝게티 국립 공원",
+    "sourceLesson": 9,
+    "sourceSlide": 12,
+    "sourceImage": "9-12-5.jpg"
+  },
+  {
+    "id": "mud-house-togo",
+    "path": "assets/photos/mud-house-togo.jpg",
+    "caption": "토고의 흙집",
+    "sourceLesson": 9,
+    "sourceSlide": 12,
+    "sourceImage": "9-12-6.jpg"
+  },
+  {
+    "id": "desert",
+    "path": "assets/photos/desert.jpg",
+    "caption": "사막 풍경 (PPT에 구체적 지역 미표기)",
+    "sourceLesson": 10,
+    "sourceSlide": 6,
+    "sourceImage": "10-6-5.jpg"
+  },
+  {
+    "id": "mongolia-steppe",
+    "path": "assets/photos/mongolia-steppe.jpg",
+    "caption": "몽골 초원",
+    "sourceLesson": 10,
+    "sourceSlide": 7,
+    "sourceImage": "10-7-5.jpg"
+  },
+  {
+    "id": "mud-house-morocco",
+    "path": "assets/photos/mud-house-morocco.jpg",
+    "caption": "모로코의 흙집",
+    "sourceLesson": 10,
+    "sourceSlide": 10,
+    "sourceImage": "10-10-4.jpg"
+  },
+  {
+    "id": "thawb-saudi",
+    "path": "assets/photos/thawb-saudi.jpg",
+    "caption": "사우디아라비아의 토브",
+    "sourceLesson": 10,
+    "sourceSlide": 10,
+    "sourceImage": "10-10-5.jpg"
+  },
+  {
+    "id": "ger-mongolia",
+    "path": "assets/photos/ger-mongolia.jpg",
+    "caption": "몽골의 게르",
+    "sourceLesson": 10,
+    "sourceSlide": 11,
+    "sourceImage": "10-11-4.jpg"
+  },
+  {
+    "id": "ger-interior",
+    "path": "assets/photos/ger-interior.jpg",
+    "caption": "몽골 게르 안의 생활",
+    "sourceLesson": 10,
+    "sourceSlide": 11,
+    "sourceImage": "10-11-5.jpg"
+  },
+  {
+    "id": "oasis-farming",
+    "path": "assets/photos/oasis-farming.jpg",
+    "caption": "오아시스 농업 (PPT에 구체적 지역 미표기)",
+    "sourceLesson": 10,
+    "sourceSlide": 12,
+    "sourceImage": "10-12-5.jpg"
+  },
+  {
+    "id": "desalination",
+    "path": "assets/photos/desalination.jpg",
+    "caption": "바닷물 담수화 시설 (PPT에 구체적 지역 미표기)",
+    "sourceLesson": 10,
+    "sourceSlide": 12,
+    "sourceImage": "10-12-6.jpg"
+  },
+  {
+    "id": "andes-herding",
+    "path": "assets/photos/andes-herding.jpg",
+    "caption": "고산 지대의 가축 사육",
+    "sourceLesson": 10,
+    "sourceSlide": 18,
+    "sourceImage": "10-18-4.jpg"
+  },
+  {
+    "id": "andes-clothing",
+    "path": "assets/photos/andes-clothing.jpg",
+    "caption": "안데스 산지의 옷차림과 가축",
+    "sourceLesson": 10,
+    "sourceSlide": 18,
+    "sourceImage": "10-18-6.jpg"
+  },
+  {
+    "id": "andes-crops",
+    "path": "assets/photos/andes-crops.jpg",
+    "caption": "고산 지대의 감자와 옥수수 재배",
+    "sourceLesson": 10,
+    "sourceSlide": 18,
+    "sourceImage": "10-18-8.jpg"
+  },
+  {
+    "id": "monsoon-life",
+    "path": "assets/photos/monsoon-life.jpg",
+    "caption": "온대 계절풍 기후 지역의 벼농사와 음식",
+    "sourceLesson": 11,
+    "sourceSlide": 9,
+    "sourceImage": "11-9-5.jpg"
+  },
+  {
+    "id": "oceanic-life",
+    "path": "assets/photos/oceanic-life.jpg",
+    "caption": "서안 해양성 기후 지역의 농업과 음식",
+    "sourceLesson": 11,
+    "sourceSlide": 10,
+    "sourceImage": "11-10-5.jpg"
+  },
+  {
+    "id": "mediterranean-life",
+    "path": "assets/photos/mediterranean-life.jpg",
+    "caption": "지중해성 기후 지역의 농업과 음식",
+    "sourceLesson": 11,
+    "sourceSlide": 11,
+    "sourceImage": "11-11-5.jpg"
+  },
+  {
+    "id": "conifer-canada",
+    "path": "assets/photos/conifer-canada.jpg",
+    "caption": "캐나다의 침엽수림",
+    "sourceLesson": 11,
+    "sourceSlide": 15,
+    "sourceImage": "11-15-4.jpg"
+  },
+  {
+    "id": "izba-russia",
+    "path": "assets/photos/izba-russia.jpg",
+    "caption": "러시아의 이즈바",
+    "sourceLesson": 11,
+    "sourceSlide": 15,
+    "sourceImage": "11-15-6.jpg"
+  },
+  {
+    "id": "tundra-russia",
+    "path": "assets/photos/tundra-russia.jpg",
+    "caption": "러시아 시베리아의 툰드라",
+    "sourceLesson": 12,
+    "sourceSlide": 8,
+    "sourceImage": "12-8-4.jpg"
+  },
+  {
+    "id": "nenets-tent",
+    "path": "assets/photos/nenets-tent.jpg",
+    "caption": "러시아 네네츠족의 천막집",
+    "sourceLesson": 12,
+    "sourceSlide": 8,
+    "sourceImage": "12-8-5.jpg"
+  },
+  {
+    "id": "pipeline-alaska",
+    "path": "assets/photos/pipeline-alaska.jpg",
+    "caption": "알래스카 송유관",
+    "sourceLesson": 12,
+    "sourceSlide": 8,
+    "sourceImage": "12-8-6.jpg"
+  },
+  {
+    "id": "monsoon-life-farming",
+    "path": "assets/photos/monsoon-life-farming.jpg",
+    "caption": "온대 계절풍 기후 지역의 벼농사와 음식 — 농업 사진",
+    "sourceLesson": 11,
+    "sourceSlide": 9,
+    "sourceImage": "11-9-5.jpg",
+    "cropOf": "assets/photos/monsoon-life.jpg"
+  },
+  {
+    "id": "monsoon-life-food",
+    "path": "assets/photos/monsoon-life-food.jpg",
+    "caption": "온대 계절풍 기후 지역의 벼농사와 음식 — 음식 사진",
+    "sourceLesson": 11,
+    "sourceSlide": 9,
+    "sourceImage": "11-9-5.jpg",
+    "cropOf": "assets/photos/monsoon-life.jpg"
+  },
+  {
+    "id": "oceanic-life-farming",
+    "path": "assets/photos/oceanic-life-farming.jpg",
+    "caption": "서안 해양성 기후 지역의 농업과 음식 — 농업 사진",
+    "sourceLesson": 11,
+    "sourceSlide": 10,
+    "sourceImage": "11-10-5.jpg",
+    "cropOf": "assets/photos/oceanic-life.jpg"
+  },
+  {
+    "id": "oceanic-life-food",
+    "path": "assets/photos/oceanic-life-food.jpg",
+    "caption": "서안 해양성 기후 지역의 농업과 음식 — 음식 사진",
+    "sourceLesson": 11,
+    "sourceSlide": 10,
+    "sourceImage": "11-10-5.jpg",
+    "cropOf": "assets/photos/oceanic-life.jpg"
+  },
+  {
+    "id": "mediterranean-life-farming",
+    "path": "assets/photos/mediterranean-life-farming.jpg",
+    "caption": "지중해성 기후 지역의 농업과 음식 — 농업 사진",
+    "sourceLesson": 11,
+    "sourceSlide": 11,
+    "sourceImage": "11-11-5.jpg",
+    "cropOf": "assets/photos/mediterranean-life.jpg"
+  },
+  {
+    "id": "mediterranean-life-food",
+    "path": "assets/photos/mediterranean-life-food.jpg",
+    "caption": "지중해성 기후 지역의 농업과 음식 — 음식 사진",
+    "sourceLesson": 11,
+    "sourceSlide": 11,
+    "sourceImage": "11-11-5.jpg",
+    "cropOf": "assets/photos/mediterranean-life.jpg"
+  },
+  {
+    "id": "oceanic-life-original",
+    "path": "assets/photos/oceanic-life-original.png",
+    "caption": "서안 해양성 기후 지역의 농업·식생활 원본 합성 이미지",
+    "sourceLesson": 11,
+    "sourceSlide": 10,
+    "sourceImage": "ppt/media/image29.png",
+    "dimensions": [
+      720,
+      323
+    ],
+    "note": "원본 PNG 바이트 그대로 사용. 작은 사진 조각 확대 대신 전체 원본 표시."
+  },
+  {
+    "id": "egypt-mud-house",
+    "path": "assets/photos/egypt-mud-house.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clay_walls_and_houses,_Al-Qasr_old_city,_Dakhla_Oasis,_Egypt.jpg",
+    "fileTitle": "Clay walls and houses, Al-Qasr old city, Dakhla Oasis, Egypt.jpg",
+    "license": "CC BY 2.0"
+  },
+  {
+    "id": "alaska-parka",
+    "path": "assets/photos/alaska-parka.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:I%C3%B1upiat_woman_named_Nowadluk_Nora_Ootenna_wearing_full_length_fur_parka_with_pieced_checkerwork_hem,_Nome,_Alaska,_probably_between_1903_and_1908_(WARNER_445).jpg",
+    "fileTitle": "Iñupiat woman named Nowadluk Nora Ootenna wearing full length fur parka with pieced checkerwork hem, Nome, Alaska, probably between 1903 and 1908 (WARNER 445).jpg",
+    "license": "Public domain"
+  },
+  {
+    "id": "lesson-cattle.png",
+    "path": "assets/photos/lesson-cattle.png",
+    "source": "user-provided",
+    "sourceFile": "codex-clipboard-b92f61d2-cb6f-45dd-8ccf-bc4cf35e170e.png"
+  },
+  {
+    "id": "lesson-wheat.png",
+    "path": "assets/photos/lesson-wheat.png",
+    "source": "user-provided",
+    "sourceFile": "codex-clipboard-72caa8f8-54ea-43cb-848f-9b92b5be97d9.png"
+  },
+  {
+    "id": "lesson-meal.png",
+    "path": "assets/photos/lesson-meal.png",
+    "source": "user-provided",
+    "sourceFile": "codex-clipboard-7365e2db-59df-492f-82e2-523a01224402.png"
+  },
+  {
+    "id": "lesson-olive-oil.png",
+    "path": "assets/photos/lesson-olive-oil.png",
+    "source": "user-provided",
+    "sourceFile": "codex-clipboard-75f9eaf4-9f61-48db-823b-a03e8468015c.png"
+  },
+  {
+    "id": "lesson-oranges.png",
+    "path": "assets/photos/lesson-oranges.png",
+    "source": "user-provided",
+    "sourceFile": "codex-clipboard-74dcc018-2246-45fa-a7e7-e0c607c91a3c.png"
+  },
+  {
+    "id": "lesson-pizza.png",
+    "path": "assets/photos/lesson-pizza.png",
+    "source": "user-provided",
+    "sourceFile": "codex-clipboard-67cb83d3-5a8e-4a6a-ba30-a8b22712db0b.png"
+  },
+  {
+    "id": "lesson-dates.png",
+    "path": "assets/photos/lesson-dates.png",
+    "source": "user-provided",
+    "sourceFile": "codex-clipboard-88577edb-ac14-4bb8-9d90-01a257d3c6db.png"
+  },
+  {
+    "id": "lesson-kampong.png",
+    "path": "assets/photos/lesson-kampong.png",
+    "source": "user-provided",
+    "sourceFile": "codex-clipboard-e23e2178-2c52-4501-a7de-7b9ec83dfd69.png"
+  },
+  {
+    "id": "caribou-alaska",
+    "path": "assets/photos/caribou-alaska.jpg",
+    "credit": "NPS / Kyle Joly",
+    "sourceUrl": "https://www.nps.gov/articles/lichensandcaribou.htm"
+  },
+  {
+    "id": "lesson-midnight-sun.png",
+    "path": "assets/photos/lesson-midnight-sun.png",
+    "source": "user-provided",
+    "sourceFile": "image source/백야.png"
+  },
+  {
+    "id": "lesson-aurora.png",
+    "path": "assets/photos/lesson-aurora.png",
+    "source": "user-provided",
+    "sourceFile": "image source/오로라.png"
+  },
+  {
+    "id": "lesson-durian.png",
+    "path": "assets/photos/lesson-durian.png",
+    "source": "user-provided",
+    "sourceFile": "image source/두리안.png"
+  },
+  {
+    "id": "lesson-mangosteen.png",
+    "path": "assets/photos/lesson-mangosteen.png",
+    "source": "user-provided",
+    "sourceFile": "image source/망고스틴.png"
+  },
+  {
+    "id": "lesson-galabeya.png",
+    "path": "assets/photos/lesson-galabeya.png",
+    "source": "user-provided",
+    "sourceFile": "image source/갈라베야.png"
+  },
+  {
+    "id": "lesson-taiga.png",
+    "path": "assets/photos/lesson-taiga.png",
+    "source": "user-provided",
+    "sourceFile": "image source/타이가.png"
+  }
+]

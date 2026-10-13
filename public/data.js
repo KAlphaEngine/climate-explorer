@@ -853,7 +853,7 @@ export const destinations=[
     "climate": "한대 기후(툰드라 기후)",
     "lat": 71.29,
     "lon": -156.79,
-    "pinOffset": [0, 38],
+    "pinOffset": [0, 8],
     "tag": "짧은 여름, 얼어 있는 땅",
     "hero": "alaska-parka",
     "climateNote": "매우 추우며 여름에도 서늘해요. 짧은 여름에는 땅 표면이 녹고 낮은 식물이 자라요.",

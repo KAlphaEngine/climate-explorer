@@ -331,8 +331,8 @@ export const destinations=[
     "lat": 47.92,
     "lon": 106.92,
     "pinOffset": [
-      -35,
-      28
+      0,
+      20
     ],
     "tag": "풀과 물을 따라가는 여행",
     "hero": "mongolia-steppe",
@@ -491,6 +491,7 @@ export const destinations=[
     "climate": "온대 기후(온대 계절풍 기후)",
     "lat": 37.57,
     "lon": 126.98,
+    "pinOffset": [2, 16],
     "tag": "여름의 비, 풍성한 논",
     "hero": "monsoon-life-farming",
     "climateNote": "여름은 덥고 습하며 겨울은 춥고 건조해요.",
@@ -852,6 +853,7 @@ export const destinations=[
     "climate": "한대 기후(툰드라 기후)",
     "lat": 71.29,
     "lon": -156.79,
+    "pinOffset": [0, 38],
     "tag": "짧은 여름, 얼어 있는 땅",
     "hero": "alaska-parka",
     "climateNote": "매우 추우며 여름에도 서늘해요. 짧은 여름에는 땅 표면이 녹고 낮은 식물이 자라요.",
